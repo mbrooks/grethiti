@@ -6,7 +6,7 @@
   "dependencies": {
     "commander": "^2.11.0",
     "solc": "^0.4.15",
-    "web3": "0.20.1"
+    "web3": "0.20.7"
   },
   "devDependencies": {},
   "scripts": {
